@@ -59,3 +59,4 @@ def derivation(a, b, c):
         return f"f'(x) = {a*2} * X"
     else:
         return f"f'(x) = 0"
+
